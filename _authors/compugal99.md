@@ -3,7 +3,7 @@ name: Alex Guymon
 username: compuguy99
 bio: "I am a Computer Engineer and developer"
 site: http://johndoe.com
-avatar: compuguy99.jpg
+avatar: compugal99.jpg
 email: alex@compuguy.dev
 social:
     - title: "github"
