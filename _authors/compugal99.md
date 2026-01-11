@@ -9,7 +9,7 @@ social:
     - title: "github"
       url: "https://github.com/CompuGuy99"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/compuguy99"
+      url: "https://www.linkedin.com/in/alex-compugal"
     # - title: "youtube"
     #   url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
     # - title: "facebook"
