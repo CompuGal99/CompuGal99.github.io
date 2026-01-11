@@ -1,6 +1,6 @@
 ---
 name: Alex Guymon
-username: compuguy99
+username: compugal99
 bio: "I am a Computer Engineer and developer"
 site: http://johndoe.com
 avatar: compugal99.jpg
