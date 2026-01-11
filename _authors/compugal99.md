@@ -1,15 +1,15 @@
 ---
 name: Alex Guymon
-username: compuguy99
+username: compugal99
 bio: "I am a Computer Engineer and developer"
 site: http://johndoe.com
-avatar: compuguy99.jpg
+avatar: compugal99.jpg
 email: alex@compuguy.dev
 social:
     - title: "github"
       url: "https://github.com/CompuGuy99"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/compuguy99"
+      url: "https://www.linkedin.com/in/alex-compugal"
     # - title: "youtube"
     #   url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
     # - title: "facebook"

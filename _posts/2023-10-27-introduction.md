@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-author: compuguy99
+author: compugal99
 date: '2023-10-27 21:45 -0600'
 category:
         - introduction
