@@ -7,7 +7,7 @@ avatar: compugal99.jpg
 email: alex@compuguy.dev
 social:
     - title: "github"
-      url: "https://github.com/CompuGuy99"
+      url: "https://github.com/CompuGal99"
     - title: "linkedin"
       url: "https://www.linkedin.com/in/alex-compugal"
     # - title: "youtube"
