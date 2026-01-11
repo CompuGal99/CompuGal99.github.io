@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is PowerShell Good?
-author: compuguy99
+author: compugal99
 date: '2024-07-01 09:00 -0500'
 category:
         - code
